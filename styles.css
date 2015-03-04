@@ -1,0 +1,46 @@
+body {
+    background-color:black;
+    color: white;
+    font-family: "Verdana";
+
+
+}
+
+div{
+    font-family: "Verdana";
+
+}
+table{
+    	border-collapse: collapse;
+}
+
+table, th, td {
+    border: 6px solid white;
+
+
+}
+th, td {
+    border: 2px solid white;
+    background-color: black;
+
+}
+h1, h2, h3{
+    margin:10px; font-family: "Times New Roman"
+}
+a {
+    color: #FF0000;
+}
+.obraz1{
+    width: 800px;
+
+}
+.obraz2{
+    width: 800px;
+    margin: auto;
+}
+
+.glowny {
+ background-color: #222222;
+ width: 100em;
+    margin: auto;
+}
