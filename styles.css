@@ -25,23 +25,23 @@ th, td {
 
 }
 h1, h2, h3{
-    margin:10px; font-family: "Times New Roman"
+    margin:10px; font-family: "Times New Roman";
 }
 a {
     color: #FF0000;
 }
 .obraz1{
-    width: 70em;
+    width: 30em;
 
 }
 .obraz2{
-    width: 70em;
+    width: 30em;
     margin: auto;
 }
 
 .glowny {
  background-color: #222222;
- width: 100em;
+ width: 60em;
     margin: auto;
 }
 .box-200 {
@@ -67,11 +67,14 @@ a {
   background-color: green;
 }
 .left{
-  float:left
+  float:left;
 }
 .right{
-  float:right
+  float:right;
 }
 .clear{
-  float:clear
+  clear: both;
+}
+.margin{
+  margin-right:15px;
 }
