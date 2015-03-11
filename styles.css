@@ -75,6 +75,9 @@ a {
 .clear{
   clear: both;
 }
-.margin{
+.marginr{
   margin-right:15px;
+}
+.marginl{
+  margin-left:15px;
 }
