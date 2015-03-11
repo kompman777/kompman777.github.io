@@ -81,3 +81,20 @@ a {
 .marginl{
   margin-left:15px;
 }
+.menu
+{
+float: left;
+padding: 30px;
+padding-top: 20px;
+padding-bottom: 20px;
+font-weight: 800;
+color: yellow;
+font-size: 18px;
+background-color: black;
+font-family: 'Open Sans', sans-serif;
+}
+.menu: hover
+{
+background-color: yellow;
+color: black;
+}
