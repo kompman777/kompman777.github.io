@@ -93,8 +93,12 @@ font-size: 18px;
 background-color: black;
 font-family: 'Open Sans', sans-serif;
 }
-.menu: hover
+.menu:hover
 {
 background-color: yellow;
 color: black;
+}
+#linki
+{
+background-color: black;
 }
